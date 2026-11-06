@@ -1,10 +1,6 @@
 ### ‎ >_ `#include <algoritmos>` | Resoluções em C++
 
-<div align="center"> 
-
-[![Banner](./gif.gif)](./gif.gif) 
-
-</div>
+[![Banner](./gif.gif)](./gif.gif)
 
 ```cpp
 #include <bits/stdc++.h>
